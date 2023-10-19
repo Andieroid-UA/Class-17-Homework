@@ -21,3 +21,17 @@ npm install --save rxjs-compat
 
 Params = observable, you "subscribe" to, to be aware in changes of data
 
+## Getting closer to the core of observables
+
+## building a custom observable
+
+## errors & completion
+
+## observables and you
+
+## Understanding Operators
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
